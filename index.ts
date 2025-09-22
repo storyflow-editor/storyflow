@@ -1,0 +1,1 @@
+const hi = "This file is here just to mark the repository as TypeScript project"
